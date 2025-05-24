@@ -7,7 +7,7 @@
 
 ![Yamada Anna](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFscXNlZHQ0MzdwaGw5ZGtvejRycXN1eHJhazFxa2duYnFpenlleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ShcIdLefD0cV2A0can/giphy.gif)
 
-###### Skills
+#### Skills
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
