@@ -16,7 +16,9 @@
     <td><img src="https://nirzak-streak-stats.vercel.app/?user=ShafnatFR&theme=radical&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafnatFR&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></td>
+    <td colspan="2"><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShafnatFR&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p></td>
   </tr>
 </table>
 </div>
