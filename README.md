@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello World, I'm Shafnat Fuaini Ramadhan 👋
+
+- 😄 Pronouns: **He/His/Him**
+- 🔭 I’m currently studying at **Telkom University**
+- 🌱 I’m currently learning **Java, PHP, MySQL, HTML, CSS, Java Script**
+- ⚡ Fun fact: I like to eat **nasi padang🤤**
+
+![Yamada Anna](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmFscXNlZHQ0MzdwaGw5ZGtvejRycXN1eHJhazFxa2duYnFpenlleSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ShcIdLefD0cV2A0can/giphy.gif)
 
 <!--
 **ShafnatFR/ShafnatFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
