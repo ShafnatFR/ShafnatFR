@@ -18,4 +18,4 @@
 </p>
 
 #### My Github Stats
-[![Shafnat GitHub stats](https://github-readme-stats.vercel.app/api?username=ShafnatFR&show_icons=true&theme=dark)](https://github.com/ShafnatFR/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafnatFR)](https://github.com/ShafnatFR/github-readme-stats)
+[![Shafnat GitHub stats](https://github-readme-stats.vercel.app/api?username=ShafnatFR&show_icons=true&theme=dark)](https://github.com/ShafnatFR/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShafnatFR&theme=dark)](https://github.com/ShafnatFR/github-readme-stats)
