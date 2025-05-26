@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hello World<br>- 😄 Pronouns: **He/His/Him**<br>- 🔭 I am currently studying at **Telkom University**<br>- 🌱 I am currently learning **Java, PHP, MySQL, HTML, CSS, Java Script**<br>
+## Hello World<br>- 😄 Pronouns: **He/His/Him**<br>- 🔭 I am currently studying at **Telkom University**<br>
 
 
 ## 🌐 Socials:
