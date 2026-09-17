@@ -41,44 +41,12 @@ Most of my work lives at the intersection of **intelligence** and **practicality
 
 ### Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-#### BimaSorgum
-AI-powered recipe generator that builds personalized recipes from available ingredients and budget constraints. Features conflict detection, local fallback, and proportional price scaling.
-
-`Next.js` · `TypeScript` · `Supabase` · `LLM API`
-
-</td>
-<td width="50%">
-
-#### Jejakawan
-Travel PWA with trip matching, gamified exploration, and AI-driven destination recommendations. Built for the Indonesian tourism ecosystem.
-
-`React` · `Supabase` · `PWA` · `Gamification`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### JagoFarm
-Fish farming finance tracker — mobile app to monitor income, expenses, and profitability of aquaculture business.
-
-`Flutter` · `Dart` · `SQLite`
-
-</td>
-<td width="50%">
-
-#### QRIS Dynamic Generator
-EMVCo-compliant dynamic QRIS payload generator. Nominal auto-fills on scan — no backend needed, runs entirely client-side.
-
-`JavaScript` · `QRIS` · `EMVCo`
-
-</td>
-</tr>
-</table>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [BimaSorgum](https://github.com/ShafnatFR/BimaSorgum) | AI-powered recipe generator — personalized recipes from available ingredients and budget | Next.js, TypeScript, Supabase, LLM API |
+| [Jejakawan](https://github.com/ShafnatFR/Jejakawan) | Travel PWA with trip matching, gamified exploration, and AI destination recommendations | React, Supabase, PWA, Gamification |
+| [JagoFarm](https://github.com/ShafnatFR/JagoFarm) | Fish farming finance tracker — monitor income, expenses, and profitability | Flutter, Dart, SQLite |
+| [QRIS Dynamic Generator](https://github.com/ShafnatFR/qris-dynamic-generator) | EMVCo-compliant dynamic QRIS payload generator — nominal auto-fills on scan | JavaScript, QRIS, EMVCo |
 
 ---
 
@@ -86,14 +54,16 @@ EMVCo-compliant dynamic QRIS payload generator. Nominal auto-fills on scan — n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShafnatFR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShafnatFR&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8" width="48%" />
+<a href="https://github.com/ShafnatFR">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ShafnatFR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShafnatFR&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8" />
+</a>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShafnatFR&theme=tokyonight&hide_border=true&bg_color=0d1117&color=818cf8&line=6366f1&point=ffffff" width="90%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=ShafnatFR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
@@ -103,6 +73,6 @@ EMVCo-compliant dynamic QRIS payload generator. Nominal auto-fills on scan — n
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=ShafnatFR&label=Profile%20Views&color=6&labelColor=1&pretty=false)
+![Visitor Count](https://visitcount.itsvg.in/api?id=ShafnatFR&label=Profile+Views&color=6&labelColor=1&pretty=false)
 
 </div>
